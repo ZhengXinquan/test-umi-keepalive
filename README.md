@@ -1,2 +1,3 @@
-# test-umi-keepalive
-umi-keepalive   useModel bug => TypeError: Cannot read properties of null (reading 'dispatcher')
+# README
+
+`@umijs/max` 模板项目，更多功能参考 [Umi Max 简介](https://next.umijs.org/zh-CN/docs/max/introduce)
